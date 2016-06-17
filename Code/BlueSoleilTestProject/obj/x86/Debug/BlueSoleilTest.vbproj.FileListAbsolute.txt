@@ -1,0 +1,44 @@
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.exe.config
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.Form1.resources
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.Resources.resources
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.vbproj.GenerateResource.Cache
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\DriveLine\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.vbprojResolveAssemblyReference.cache
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.exe.config
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.Form1.resources
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.Resources.resources
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.vbproj.GenerateResource.Cache
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\DriveLine\DriveLine 2015\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.vbprojResolveAssemblyReference.cache
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.exe.config
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\bin\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.vbprojResolveAssemblyReference.cache
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.Form1.resources
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.Resources.resources
+C:\My Work\Media\Car Stuff\BlueSoleilTestForOnline\BlueSoleilTest\obj\x86\Debug\BlueSoleilTest.vbproj.GenerateResource.Cache
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\bin\x86\Debug\BlueSoleilTest.exe.config
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.xml
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\bin\x86\Debug\BlueSoleilTest.exe
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.vbprojResolveAssemblyReference.cache
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.Form1.resources
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.Resources.resources
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\obj\x86\Debug\BlueSoleilTest.vbproj.GenerateResource.Cache
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\bin\x86\Debug\BlueSoleilTest.pdb
+C:\My Work\Media\Car Stuff\BS_NET\BlueSoleilTestProject\bin\x86\Debug\BlueSoleilTest.xml
