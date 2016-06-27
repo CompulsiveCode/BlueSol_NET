@@ -20,3 +20,4 @@ SPP - Serial Port Profile - ??% complete.
 HID - Human Input Device - 10% complete.  
 
 
+![BlueSolNet ScreenShot](http://www.compulsivecode.com/images/bluesoltest_ss.png "BlueSolNet ScreenShot")
