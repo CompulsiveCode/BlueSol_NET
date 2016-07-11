@@ -4,6 +4,9 @@ A set of wrapper modules and an example program for use with the Blue Soleil SDK
 # What is Blue Soleil?
 Blue Soleil is a third-party library and bluetooth stack.  It comes with an SDK written in C, and the progamming interface allows audio connections (which no other free/inexpensive bluetooth stack provides).  Their support is limited, and their code/examples are very difficult to use.  An incorrect declaration or improper use of a function can lead to memory corruption, things not working, and ultimately crashing.  And none of it is thread-safe.  So most developers spend hours (weeks, months) just trying to get the examples translated.  BlueSol_NET is my attempt at translating and wrapping their SDK into a reusable library.
 
+
+# Bluetooth profiles supported
+
  PBAP - PhoneBook Access Profile - 100% complete.  
 Download VCards of contacts, with pictures.  VCard (.vcf) parser included to read the info and image of each contact.
 
