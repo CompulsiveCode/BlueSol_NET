@@ -1,11 +1,11 @@
-# BlueSol_NET
+# What is BlueSol_NET
 A set of wrapper modules and an example program for use with the Blue Soleil SDK, to demonstrate how to interface with each Bluetooth profile.  Most of the profiles are already supported. Only tested under x86 compiling due to heavy use of function pointers and data-type conversions.  All marshalling is done by hand, in code, building/parsing structures out of byte arrays.  Almost every callback is implemented as a .Net event.  Almost every function is wrapped in a .Net friendly manner.  
 
 # What is Blue Soleil?
-Blue Soleil is a third-party library and bluetooth stack.  It comes with an SDK written in C, and the progamming interface allows audio connections (which no other free/inexpensive bluetooth stack provides).  Their support is limited, and their code/examples are very difficult to use.  An incorrect declaration or improper use of a function can lead to memory corruption, things not working, and ultimately crashing.  And none of it is thread-safe.  So most developers spend hours (weeks, months) just trying to get the examples translated.  BlueSol_NET is my attempt at translating and wrapping their SDK into a reusable library.
+Blue Soleil is a third-party bluetooth library and bluetooth stack.  It comes with an SDK and example code written in C, and the progamming interface allows audio connections (which no other free/inexpensive bluetooth stack provides).  Their support is limited, and their code/examples are very difficult to use.  An incorrect declaration or improper use of a function can lead to memory corruption, things not working, and ultimately crashing.  And none of it is thread-safe.  So most developers spend hours (weeks, months) just trying to get the examples translated.  BlueSol_NET is my attempt at translating and wrapping their SDK into a reusable library.
 
 
-# Bluetooth profiles supported
+# Bluetooth Profiles Supported:
 
 -PBAP - PhoneBook Access Profile - 100% complete.  
 Download VCards of contacts, with pictures.  VCard (.vcf) parser included to read the info and image of each contact.
@@ -34,14 +34,14 @@ This is the underlying audio connection used for both phone calls (HFP) and medi
 -FTP - File Transfer Profile - 98% complete.  
 Browse the folders and files on the phone.  Transfer files.  Delete files.
 
--SPP - Serial Port Profile - 60% complete.
+-SPP - Serial Port Profile - 70% complete.
 Enable and connect to a serial port on a remote device, such as a phone or an OBD reader, or any BT device that exposes a serial port.
 Once the port is connected, standard Windows serial communication can be used.
 
 -HID - Human Input Device - 10% complete. 
 I have no sample code from the SDK, and no HID devices to test with.  So only some of the declarations are complete.
 
-
+# Screenshots
 ![BlueSolNet ScreenShot](http://www.compulsivecode.com/images/bluesoltest_ss.png "BlueSolNet ScreenShot")
 
 
