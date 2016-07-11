@@ -7,35 +7,38 @@ Blue Soleil is a third-party library and bluetooth stack.  It comes with an SDK 
 
 # Bluetooth profiles supported
 
- PBAP - PhoneBook Access Profile - 100% complete.  
+-PBAP - PhoneBook Access Profile - 100% complete.  
 Download VCards of contacts, with pictures.  VCard (.vcf) parser included to read the info and image of each contact.
 
- MAP - Message Access Profile - 95% complete.  
+-MAP - Message Access Profile - 95% complete.  
 Send messages.  Retrieve messages.  
 The only thing that doesn't work is the "new message" event.  So you have to poll the device for new messages.
 (note: iPhone's do not allow sending of text messages via bluetooth MAP.)
 
- PAN - Personal Area Network - 100%.
+-OBEX - Object Exchange Profile - 100%
+This is used to transfer add a contact to the phone.  Use the included VCard module to compose a VCard file (specifying contact info, picture, phone numbers, addresses) and push it to the phone.
+
+-PAN - Personal Area Network - 100%.
 This is used to tether your PC or tablet to your phone and share your phone's internet connection.  Must be enabled on the phone.
 
- HFP - Hands Free Profile - 99% complete.
+-HFP - Hands Free Profile - 99% complete.
 Make and receive phone calls.  Includes cellular network information, Caller-ID, transferring audio to/from phone, sending DTMF tones, etc.
 
- AVRCP - Audio/Video Remote-Control Profile - 90% complete.  
+-AVRCP - Audio/Video Remote-Control Profile - 90% complete.  
 Play music from your phone on your PC.  Just like a bluetooth head unit in a car.
 The only thing that doesn't work is media browsing, which seems to be a new/advanced feature not supported by all phones.
 
- A2DP - Advanced Audio Distribution Profile - 95% complete.
+-A2DP - Advanced Audio Distribution Profile - 95% complete.
 This is the underlying audio connection used for both phone calls (HFP) and media playback (AVRCP).  
 
- FTP - File Transfer Profile - 98% complete.  
+-FTP - File Transfer Profile - 98% complete.  
 Browse the folders and files on the phone.  Transfer files.  Delete files.
 
- SPP - Serial Port Profile - 60% complete.
+-SPP - Serial Port Profile - 60% complete.
 Enable and connect to a serial port on a remote device, such as a phone or an OBD reader, or any BT device that exposes a serial port.
 Once the port is connected, standard Windows serial communication can be used.
 
- HID - Human Input Device - 10% complete. 
+-HID - Human Input Device - 10% complete. 
 I have no sample code from the SDK, and no HID devices to test with.  So only some of the declarations are complete.
 
 
