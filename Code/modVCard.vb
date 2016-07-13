@@ -63,7 +63,7 @@ Module modVCard
 
         Dim strArray(0 To 0) As String, strCount As Integer = 0
         strArray = Split(inpAddress, ";")
-        strCount = strArray.Length - 1
+        strCount = strArray.Length
 
         Dim i As Integer
         For i = 0 To strCount - 1
@@ -626,13 +626,13 @@ Module modVCard
         Dim rightPart As String = Mid(inpLine, p1 + 1)
 
         retValue = rightPart
-        Do
-            If Left(retValue, 1) = ";" Then
-                retValue = Mid(retValue, 2)
-            Else
-                Exit Do
-            End If
-        Loop
+        'Do
+        '    If Left(retValue, 1) = ";" Then
+        '        retValue = Mid(retValue, 2)
+        '    Else
+        '        Exit Do
+        '    End If
+        'Loop
 
         p1 = InStr(1, leftPart, ";")
         If p1 = 0 Then
