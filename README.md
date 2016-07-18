@@ -1,4 +1,4 @@
-# What is BlueSol_NET
+# What is BlueSol_NET?
 A set of wrapper modules and an example program for use with the Blue Soleil SDK, to demonstrate how to interface with each Bluetooth profile.  Most of the profiles are already supported. Only tested under x86 compiling due to heavy use of function pointers and data-type conversions.  All marshalling is done by hand, in code, building/parsing structures out of byte arrays.  Almost every callback is implemented as a .Net event.  Almost every function is wrapped in a .Net friendly manner.  
 
 # What is Blue Soleil?
@@ -19,9 +19,11 @@ The only thing that doesn't work is the "new message" event.  So you have to pol
 This is used to transfer add a contact to the phone.  Use the included VCard module to compose a VCard file (specifying contact info, picture, phone numbers, addresses) and push it to the phone.
 
 -PAN - Personal Area Network - 100%.
+
 This is used to tether your PC or tablet to your phone and share your phone's internet connection.  Must be enabled on the phone.
 
 -HFP - Hands Free Profile - 99% complete.
+
 Make and receive phone calls.  Includes cellular network information, Caller-ID, transferring audio to/from phone, sending DTMF tones, etc.
 
 -AVRCP - Audio/Video Remote-Control Profile - 90% complete.  
