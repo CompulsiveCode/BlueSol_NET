@@ -10,15 +10,15 @@ Blue Soleil is a third-party bluetooth library and bluetooth stack.  It comes wi
 -PBAP - PhoneBook Access Profile - 100% complete.  
 Download VCards of contacts, with pictures.  VCard (.vcf) parser included to read the info and image of each contact.
 
--MAP - Message Access Profile - 95% complete.  
+-MAP - Message Access Profile - 95% complete.   
 Send messages.  Retrieve messages.  
 The only thing that doesn't work is the "new message" event.  So you have to poll the device for new messages.
 (note: iPhone's do not allow sending of text messages via bluetooth MAP.)
 
--OBEX - Object Exchange Profile - 100%
+-OBEX - Object Exchange Profile - 100%    
 This is used to transfer add a contact to the phone.  Use the included VCard module to compose a VCard file (specifying contact info, picture, phone numbers, addresses) and push it to the phone.
 
--PAN - Personal Area Network - 100%.
+-PAN - Personal Area Network - 100%.  
 This is used to tether your PC or tablet to your phone and share your phone's internet connection.  Must be enabled on the phone.
 
 -HFP - Hands Free Profile - 99% complete.
