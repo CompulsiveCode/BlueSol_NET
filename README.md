@@ -8,7 +8,7 @@ Blue Soleil is a third-party bluetooth library and bluetooth stack.  It comes wi
 # Bluetooth Profiles Supported:
 
 <b>-PBAP - PhoneBook Access Profile - 100% complete.  </b>  
-Download VCards of contacts, with pictures.  VCard (.vcf) parser included to read the info and image of each contact.
+Download VCards of contacts, with pictures.  Also retrieve call history.  VCard (.vcf) parser included to read the info and image of each contact.
 
 <b>-MAP - Message Access Profile - 95% complete.</b>  
 Send messages.  Retrieve messages.  
@@ -16,7 +16,7 @@ The only thing that doesn't work is the "new message" event.  So you have to pol
 (note: iPhone's do not allow sending of text messages via bluetooth MAP.)
 
 <b>-OBEX - Object Exchange Profile - 100% complete. </b>  
-This is used to transfer add a contact to the phone.  Use the included VCard module to compose a VCard file (specifying contact info, picture, phone numbers, addresses) and push it to the phone.
+This is used to add a contact to the phone.  Use the included VCard module to compose a VCard file (specifying contact info, picture, phone numbers, addresses) and push it to the phone.
 
 <b>-PAN - Personal Area Network - 100% complete.</b>  
 This is used to tether your PC or tablet to your phone and share your phone's internet connection.  Must be enabled on the phone.
@@ -39,7 +39,7 @@ Enable and connect to a serial port on a remote device, such as a phone or an OB
 Once the port is connected, standard Windows serial communication can be used.
 
 <b>-HID - Human Input Device - 10% complete.</b>  
-I have no sample code from the SDK, and no HID devices to test with.  So only some of the declarations are complete.
+Only some of the declarations are complete.
 
 # Screenshots
 ![BlueSolNet ScreenShot](http://www.compulsivecode.com/images/bluesoltest_ss.png "BlueSolNet ScreenShot")
