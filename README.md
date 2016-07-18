@@ -19,11 +19,9 @@ The only thing that doesn't work is the "new message" event.  So you have to pol
 This is used to transfer add a contact to the phone.  Use the included VCard module to compose a VCard file (specifying contact info, picture, phone numbers, addresses) and push it to the phone.
 
 -PAN - Personal Area Network - 100%.
-
 This is used to tether your PC or tablet to your phone and share your phone's internet connection.  Must be enabled on the phone.
 
 -HFP - Hands Free Profile - 99% complete.
-
 Make and receive phone calls.  Includes cellular network information, Caller-ID, transferring audio to/from phone, sending DTMF tones, etc.
 
 -AVRCP - Audio/Video Remote-Control Profile - 90% complete.  
